@@ -12,13 +12,13 @@ It is a multi-threaded external sorting library that allows you to sort in ascen
 
 ## Important notice
 
-> **`NOTE 1:`**  Allowed RAM size is set in megabytes. For the best library performance it is important to set allowed RAM size **more** then 1Mb!
+> **`NOTE 1:`**  Allowed RAM size is set in **megabytes**. For the best library performance it is important to set allowed RAM size **`more then 1Mb`**!
 
-> **`NOTE 2:`**  Due to the algorithm it is critically important to **set allowed number of CPU threads as the power of two**! For example 2, 4, 8, 16 etc.
+> **`NOTE 2:`**  Due to the algorithm it is critically important to **`set allowed number of CPU threads as the power of two`**! For example 2, 4, 8, 16 etc.
 
 ## How to use this library
 
-You can see an example of using this library in the "Examples" folder.
+You can see an example of using this library in the "examples" folder.
 
 
 # Build process
